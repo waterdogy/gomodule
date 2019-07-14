@@ -1,0 +1,14 @@
+.DS_Store
+*.swp
+output
+yoyo.ini
+alpha
+task/tasks
+tasks
+.idea
+*.iml
+*.pyc
+.vscode*
+main
+nohup.out
+lock
