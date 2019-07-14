@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"gomodule/heloo"
+	"github.com/waterdogy/gomodule/heloo"
 	"rsc.io/quote"
 )
 

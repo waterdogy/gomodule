@@ -1,4 +1,4 @@
-module gomodule
+module github.com/waterdogy/gomodule
 
 go 1.12
 
